@@ -1,7 +1,7 @@
 import os
 
 def func():
-    pass
+    print("main")
 
 
 if __name__ == '__main__':
